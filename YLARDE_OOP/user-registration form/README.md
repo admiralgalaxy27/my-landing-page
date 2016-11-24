@@ -1,2 +1,2 @@
-# decodeapp_ukay
-Another decode app for online clothing transaction
+# user registration app
+Application for registration forms
