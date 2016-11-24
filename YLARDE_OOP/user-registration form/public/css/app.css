@@ -1,0 +1,13 @@
+.container{
+  margin: 0px;
+  padding: 0px;
+  width:100%;
+}
+
+.brand-logo{
+  margin-left:10px;  
+}
+
+footer{
+  padding: 10px; 
+}
